@@ -1,7 +1,7 @@
 Project Name: Udacity VR Apartment
 Developer: Russell Alleen-Willems
 Platform: Google Cardboard
-Time for Project Completion: 8/18/2017 10pm-3am, - 8/--/2017
+Time for Project Completion: 8/18/2017 10pm-3am, 8/21/2017, 3 hours, - 8/--/2017
 Build Date: 8/--/2017
 
 Software Versions:
@@ -26,5 +26,9 @@ https://sketchfab.com/models/f9cc5f021c044a25b2c89029448d9602#
 -Seattle Map 1914, Public Domain Image(https://commons.wikimedia.org/wiki/File:Seattle_Map_1914_(5855306176).jpg)
 -Hall of Bulls North Wall Image (Lascaux Image): Copyright, LRMH (http://www.thalo.com/articles/view/627/the_cave_paintings_of_lascaux_field_museum)
 -Simple RPG Dice, Purchased Model, https://www.cgtrader.com/3d-models/sports/toy/simple-rpg-dice
+-RPG Character Sheets, (http://www.madadventurers.com/rpggamerdad-more-dd-for-kids/)
+--Witch Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-2.jpg)
+--Minotaur Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-1.jpg)
+-Low-Poly Starship, Unity Asset Store, (http://u3d.as/bw5)
 -Skybox:
 -Globe Texture:
