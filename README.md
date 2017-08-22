@@ -12,9 +12,10 @@ Description:
 This Google Cardboard app simulates a small apartment in VR. The project demonstrates the use of VR cameras, 3D models, and lighting techniques optimized for low-power VR devices (e.g. phones).
 
 One Thing I Liked:
-I spent far too long just having fun placing furniture and customizing my "VR" apartment.
+I had a lot of fun placing the props in the scene and designing a nice virtual environment for myself. I spent the bulk of the dev time just having fun placing furniture and customizing my "VR" apartment.
 
 One Challenge:
+I had some challenges figuring out how best to adjust the scene lighting. Baked lights appear much brighter than real-time lights of the same intensity and the lighting appears darker when deployed to mobile.
 
 Additional Resources:
 -HTC Vive 3D Model, courtesy of SketchFab User "Eternal Realm", used under Creative Commons Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/)
@@ -30,5 +31,3 @@ https://sketchfab.com/models/f9cc5f021c044a25b2c89029448d9602#
 --Witch Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-2.jpg)
 --Minotaur Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-1.jpg)
 -Low-Poly Starship, Unity Asset Store, (http://u3d.as/bw5)
--Skybox:
--Globe Texture:
