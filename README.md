@@ -1,8 +1,8 @@
 Project Name: Udacity VR Apartment
 Developer: Russell Alleen-Willems
 Platform: Google Cardboard
-Time for Project Completion: 8/18/2017 10pm-3am, 8/21/2017, 3 hours, - 8/--/2017
-Build Date: 8/--/2017
+Time for Project Completion: 12 hours
+Build Date: 8/22/2017
 
 Software Versions:
 GVR Version: 1.0
@@ -31,3 +31,4 @@ https://sketchfab.com/models/f9cc5f021c044a25b2c89029448d9602#
 --Witch Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-2.jpg)
 --Minotaur Character Sheet (http://www.madadventurers.com/wp-content/uploads/2015/06/Karinas-DD-Character-Sheet-1.jpg)
 -Low-Poly Starship, Unity Asset Store, (http://u3d.as/bw5)
+-Background Audio: "384709_jemtman_copenhagen-street.mp3", Creative Commons 0/Public Domain license (https://freesound.org/people/jemtman/sounds/384709/)
